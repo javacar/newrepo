@@ -6,3 +6,4 @@ git config user.name
 git config --global http.sslVerify "false"
 git clone https://github.com/javacar/newrepo.git
 www.ipaddress.com
+max cached icons
